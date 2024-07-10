@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'http://localhost:8000';
+const url = 'https://e-commerce-95ay.onrender.com';
 
 export const authenticateLogin = async (user) => {
     try {
